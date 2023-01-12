@@ -1,10 +1,10 @@
 .content__intro {
-  margin-bottom: 95px;
+  margin-bottom: 94px;
 }
 
 @media screen and (max-width: 1024px) {
   .content__intro {
-    margin-bottom: 100px;
+    margin-bottom: 99px;
   }
 }
 
@@ -16,6 +16,6 @@
 
 @media screen and (max-width: 480px) {
   .content__intro {
-    margin-bottom: 63px;
+    margin-bottom: 64px;
   }
 }
