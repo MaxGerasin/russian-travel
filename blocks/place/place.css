@@ -21,7 +21,7 @@
 @media screen and (max-width: 956px) {
   .place {
     grid-template-columns: 340px 1fr;
-    margin-top: 76px;
+    margin-top: 70px;
     grid-column-gap: 28px;
   }
   .place:first-child {
@@ -43,6 +43,7 @@
 @media screen and (max-width: 576px) {
   .place {
     margin-top: 48px;
+    grid-row-gap: 11px;
   }
   .place:first-child {
     margin-top: 64px;
